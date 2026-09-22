@@ -1,3 +1,4 @@
+import '../global.css';
 import { FlatList, StyleSheet, Text, View } from 'react-native';
 
 const PRODUCTS = [
